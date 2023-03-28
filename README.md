@@ -8,7 +8,7 @@
 
 
 
-## Exercise (for Windows users)
+## Exercise (for Windows users with Visual Studio)
 
 Create a new Console App project in a suitable location 
 ![](./images/1.JPG)
