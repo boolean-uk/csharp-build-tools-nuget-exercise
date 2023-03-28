@@ -26,7 +26,8 @@ What will happen now is that nuget should download the relevant dependencies req
 This is what a successful package install looks like!
 
 
-![](./images/5.JPG)
+![](./images/5.JPG)  
+
 Now ensure your **Program.cs** looks like above.
 
 If you now F5 to build and run this, you should hear the hello phrase from your PC.
@@ -37,5 +38,6 @@ You don't need to worry how that text to speech code works, just know that someo
 http://www.nuget.org contains all the packages you can easily add to your project.
 
 ![](./images/6.JPG)
-![](./images/7.JPG)
+![](./images/7.JPG)  
+
 By issuing the **uninstall-package system.speech** command you can remove a nuget package from your project.  Note that Visual Studio now doesn't recognise the namespace or object in the class.  You'll have to **install-package system.speech** to make it work again.
