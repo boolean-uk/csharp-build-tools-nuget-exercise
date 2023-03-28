@@ -4,7 +4,7 @@
 ## Learning Objectives
 - to understand projects and solutions in c#
 - start exploring namespaces and references
-- Reference some other code
+- add/remove a nuget package
 
 
 
