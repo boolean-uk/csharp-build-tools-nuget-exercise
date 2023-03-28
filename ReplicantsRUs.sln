@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33502.453
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReplicantsRUs.Console", "ReplicantsRUs.Console\ReplicantsRUs.Console.csproj", "{A932140A-118A-4705-B059-8A05B07EFD0F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{4A418540-D5EF-40AA-98ED-2103BA8B1A2A}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A932140A-118A-4705-B059-8A05B07EFD0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A932140A-118A-4705-B059-8A05B07EFD0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A932140A-118A-4705-B059-8A05B07EFD0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A932140A-118A-4705-B059-8A05B07EFD0F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1334AD3D-840A-46E8-8068-E8B11C1B18B1}
+	EndGlobalSection
+EndGlobal
